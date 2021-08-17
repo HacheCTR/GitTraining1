@@ -3,3 +3,4 @@ This is the second line of MainFileA modified by Luis
 This is the third line of MainFileA modified by Luis
 This is the fourth line of MainFileA
 This is the Fifth line of MainFileA
+This is the funcitonality of the eeprom
